@@ -5,9 +5,7 @@ workspace:
   spec:
     image: ubuntu
     container-based-vm: true
-    cpu: 1
     memory: 1.2
-    disk: 15
     labels:
       favorite-color: "steven"
       language: "english"
