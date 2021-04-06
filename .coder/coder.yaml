@@ -4,7 +4,7 @@ workspace:
   type: "kubernetes"
   spec:
     image: ubuntu
-    container-based-vm: true
+    container-based-vm: 8
     memory: 1.2
     labels:
       favorite-color: "steven"
